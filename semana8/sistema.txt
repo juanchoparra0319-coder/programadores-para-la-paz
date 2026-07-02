@@ -1,5 +1,5 @@
-El comando uname -a muestra información del sistema operativo, la versión del kernel y la arquitectura del equipo.
+Resultado de uname -a:
+MINGW64_NT-10.0-26200 Daniela 3.6.6-1cdd4371.x86_64 2026-01-15 22:20 UTC x86_64 Msys
 
-El comando whoami muestra el nombre del usuario que está utilizando el sistema.
-
-Conocer esta información es útil para administrar un servidor porque permite identificar el entorno de trabajo, verificar configuraciones y solucionar problemas de manera más eficiente.
+Resultado de whoami:
+Laura Andrade
